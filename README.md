@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-This is for courser assignment
+This is for coursera assignment
